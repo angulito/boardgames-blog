@@ -9,7 +9,7 @@ author: "Hugo Authors"
 {{< rawhtml >}}
 
 <div class="content">
-    <p class="mb-2">To contact us, please fill out the form below.</p>
+    <p class="mb-2">Para contactarnos, por favor rellena el siguiente formulario.</p>
     <form name=contact action=https://formspree.io/f/xleozkjn method=post>
     <div class="mb-4">
          <input type=text placeholder="Your Name" name=name class="w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required>
