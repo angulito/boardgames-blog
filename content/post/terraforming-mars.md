@@ -1,7 +1,7 @@
 ---
 author: "Natalia"
 title: "Terraforming Mars"
-image: "img/terraforming-mars.jpg"
+image: "/img/terraforming-mars.jpg"
 draft: false
 date: 2021-01-27
 description: "Terraforming Mars"

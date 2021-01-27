@@ -1,7 +1,7 @@
 ---
 author: "Natalia"
 title: "Through The Ages"
-image: "img/through-the-ages.jpg"
+image: "/img/through-the-ages.jpg"
 date: "2020-01-26"
 description: "Through The Ages"
 tags: [
