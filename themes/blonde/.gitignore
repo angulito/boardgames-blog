@@ -24,3 +24,7 @@ _testmain.go
 
 node_modules/
 .DS_Store
+
+# build
+resources/
+package-lock.json
