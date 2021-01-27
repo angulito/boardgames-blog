@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo --theme=blonde --gc --minify"
+command = "hugo --theme=Blonde --gc --minify"
 
 [context.production.environment]
 HUGO_VERSION = "0.78.2"
