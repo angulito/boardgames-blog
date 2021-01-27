@@ -47,6 +47,7 @@ archive_dropdown = "false"
 category = "categories"
 tag = "tags"
 archive = "archives"
+scores = "scores"
 
 [privacy]
 

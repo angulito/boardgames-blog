@@ -1,9 +1,11 @@
 ---
 author: "Natalia"
 title: "Through The Ages"
+scores: "top" # show on scores all category
 image: "/img/through-the-ages.jpg"
-date: "2020-01-26"
+date: "2021-01-26"
 description: "Through The Ages"
+score: 10
 tags: [
     "dos jugadores",
     "grupo",

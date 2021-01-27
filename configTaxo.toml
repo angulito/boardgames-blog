@@ -5,6 +5,7 @@ enableInlineShortcodes = true
 category = "categories"
 tag = "tags"
 archives = "archives"
+scores = "scores"
 
 [privacy]
 

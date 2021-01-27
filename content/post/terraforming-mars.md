@@ -1,9 +1,11 @@
 ---
 author: "Natalia"
 title: "Terraforming Mars"
+scores: "top" # show on scores top category
 image: "/img/terraforming-mars.jpg"
 draft: false
 date: 2021-01-27
+score: 9
 description: "Terraforming Mars"
 tags: [
     "dos jugadores",
