@@ -5,7 +5,7 @@ scores: "top" # show on scores all category
 image: "/img/through-the-ages.jpg"
 date: "2021-01-26"
 description: "Through The Ages"
-score: 10
+score: 9.5
 tags: [
     "dos jugadores",
     "grupo",
